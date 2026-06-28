@@ -1,0 +1,544 @@
+STYLE LOCK:
+abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction
+
+PALETTE:
+**
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels
+
+NEGATIVE:
+photorealistic, photograph, camera, 3d render, cgi, hyperrealistic, stock photo, clipart, illustration, anime, cartoon, digital art, bar, pub, club, room, interior, building, street, road, city, person, face, hands, body, silhouette, figure, portrait, fire, flame, hearts, stars, roses, neon, bright colours, text, watermark, logo, signature, border, frame, geometric pattern, tiling, repetition, symmetry, ugly, deformed, blurry, noisy, low quality, oversaturated, **
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels
+
+────────────────────────────────────────────────────────────
+
+SCENE 01 [24.1s – 26.7s]
+Lyric : "The night"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Here is the JSON array of abstract painting descriptions:. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 02 [28.9s – 31.5s]
+Lyric : "gently falls."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Dense brushstrokes in Midnight Bloom swirl across the canvas, heavy and turbulent.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 03 [35.9s – 38.5s]
+Lyric : "The light"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Thin wisps of Whispering Winds dance across the top third, fading to pale blue mist.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 04 [40.4s – 42.9s]
+Lyric : "is what we saw."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Pale Moonlit Mist drips from the top edge, pooling into a soft, rounded shape.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 05 [46.9s – 48.6s]
+Lyric : "But when it rains,"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. A deep indigo wave crashes against the left side, slowly receding into Starlight Serenade.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 06 [50.6s – 53.0s]
+Lyric : "it washes away the pain."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Rainy Reflections seeps from the right side, merging with Midnight Bloom's darkness.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 07 [53.3s – 54.6s]
+Lyric : "Then it drains"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Slick brushstrokes in Midnight Bloom converge at the center, radiating outward like ripples on water.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 08 [56.5s – 58.5s]
+Lyric : "into the ocean."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Thin strands of Whispering Winds weave together, forming a delicate lattice.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 09 [59.6s – 61.9s]
+Lyric : "And the day"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Moonlit Mist creeps across the canvas, obscuring the earlier brushstrokes.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 10 [63.4s – 67.4s]
+Lyric : "is all we could say."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. The indigo wave re-emerges, this time carrying wisps of pale gold with it.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 11 [80.0s – 95.4s]
+Lyric : "As you"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Pale blue-gray mist coalesces into a soft, rounded peak in the center.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 12 [95.5s – 96.4s]
+Lyric : "cry,"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Midnight Bloom's darkness seeps back in, slowly encasing the peak.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 13 [98.1s – 100.0s]
+Lyric : "remember why."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Slick brushstrokes in Midnight Bloom form a series of small, rounded dunes.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 14 [100.1s – 102.2s]
+Lyric : "Lights in the sky"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Wispy tendrils of Whispering Winds curl around the edges, disappearing into the pale blue mist.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 15 [103.9s – 106.6s]
+Lyric : "blowing our minds."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. A deep indigo pool at the bottom edge begins to spread upward, engulfing the canvas.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 16 [106.6s – 109.5s]
+Lyric : "Teleport to another dimension."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Pale gold drips from the top edge, merging with the rising indigo tide.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 17 [109.6s – 112.5s]
+Lyric : "Mission abort, beyond religion."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. The composition becomes more turbulent, with brushstrokes in Midnight Bloom crashing against the pale blue mist.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 18 [112.5s – 114.0s]
+Lyric : "Yet within."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Thin strands of Whispering Winds weave together once more, this time forming a delicate, swirling vortex.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 19 [119.0s – 120.1s]
+Lyric : "The day"
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Moonlit Mist coalesces into a soft, rounded shape at the center, surrounded by dark indigo.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+
+SCENE 20 [123.6s – 126.6s]
+Lyric : "is all we could say."
+Prompt: abstract expressionist fine art painting, thick expressive impasto oil brushstrokes, translucent colour field glazes layered over raw canvas texture, painterly and gestural, no photorealism, no photography, museum-quality fine art, emotionally charged abstraction. colour palette restricted to: **
+Here are five paint colours that match the emotional temperature of this song:
+
+1. "Midnight Bloom" #4567b7, a deep blue-purple shade
+2. "Whispering Winds" #8bc34a, a soft green-blue hue
+3. "Moonlit Mist" #c9e4ca, a pale blue-gray colour
+4. "Starlight Serenade" #6666cc, a gentle purple-blue tone
+5. "Rainy Reflections" #9b59b6, a muted pink-purple shade
+
+**BANNED**
+The following visual elements would be wrong for this song's emotion:
+
+1. Bright red neon signs
+2. Chequered patterns
+3. Loud, bold typography
+4. Glitter or sequins
+5. Fireworks explosions
+6. Cityscapes at night
+7. Cartoon characters
+8. Polka dots
+9. Neon-lit palm trees
+10. Comic book-style action panels. Pale Starlight Serenade seeps from the edges, merging with Midnight Bloom's darkness.. wide cinematic 16:9 composition, dramatic painterly lighting, deep tonal range, expressive brushwork, emotionally resonant abstraction, consistent oil painting aesthetic
+

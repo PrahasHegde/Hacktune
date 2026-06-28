@@ -1,0 +1,10 @@
+*.mp4
+*.mov
+*.mp3
+*.png
+*.jpeg
+*.jpg
+*node_modules
+*New folder
+_pycache_
+_MACOSX
